@@ -1,1 +1,1 @@
-# image-directory
+# image_directory
